@@ -3,4 +3,4 @@ Hi,
 
 I mostly use **Java** and **Python**, but I am also familiar with HTML/CSS/JS and C++. 
 
-Currently learning how to use LibGDX and Node.js.
+Currently learning how to use ROS and Node.js.
