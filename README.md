@@ -1,6 +1,6 @@
 Hi,
-     My name is Ashvin Iyer, and I'm a Purdue CS student and alumni of [Mitty Robotics](https://www.amhsrobotics.com/). 
+     My name is Ashvin Iyer, and I'm a Purdue CS student, software lead of [Purdue Lunabotics](https://web.ics.purdue.edu/~lunabot/) and alumni of [Mitty Robotics](https://www.amhsrobotics.com/). 
 
-I mostly use **Java** and **Python**, but I am also familiar with HTML/CSS/JS and C++. 
+I mostly use **C/C++** **Python**, and **Java**, but I am also familiar with HTML/CSS/JS, MATLAB, and more.
 
-Currently learning how to use ROS and Node.js.
+I am currently trying to learn more about SLAM and autonomous navigation in general.
