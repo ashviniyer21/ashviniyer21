@@ -4,5 +4,3 @@ Hi,
 I mostly use **C/C++** **Python**, and **Java**, but I am also familiar with HTML/CSS/JS, MATLAB, and more.
 
 I am currently trying to learn more about SLAM and autonomous navigation in general.
-
-![Ashvins's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashviniyer21&show_icons=true&hide=stars,prs,issues)
