@@ -3,4 +3,7 @@ Hi,
 
 I mostly use **C/C++** and **Python**,but I am also familiar with Java, HTML/CSS/JS, MATLAB, and more.
 
-I am currently interning at [Kodiak Robotics](https://kodiak.ai) and am a member of [CoRAL Lab](https://corallab.net) and [Purdue Lunabotics](https://web.ics.purdue.edu/~lunabot)
+Experience:
+- Intern at [Kodiak Robotics](https://kodiak.ai): Worked on the simulation team
+- Student Researcher at [CoRAL Lab](https://corallab.net): Published [paper](https://arxiv.org/pdf/2307.16318.pdf) to IROS 2023
+- Member of [Purdue Lunabotics](https://web.ics.purdue.edu/~lunabot): Working on perception and navigation algorithms for a lunar rover
