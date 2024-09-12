@@ -1,7 +1,7 @@
 Hi,
      My name is Ashvin Iyer, and I'm a Purdue CS student interested in Autonomous Robots!
 
-I mostly use **C/C++** and **Python**,but I am also familiar with Java, HTML/CSS/JS, MATLAB, and more.
+I mostly use **C/C++** and **Python**,but I am also familiar with Java, MATLAB, and more.
 
 Experience:
 - Intern at [Kodiak Robotics](https://kodiak.ai): Working on the simulation / motion planning
